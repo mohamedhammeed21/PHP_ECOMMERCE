@@ -1,0 +1,33 @@
+body{
+		background-color:#F4F4F4;
+}
+
+
+.login {
+		width:300px;
+		margin:100px auto;
+
+}
+
+.login input {
+	margin-bottom: 10px;
+}
+.login .form-control{
+		background-color: #EAEAEA;
+}
+
+.login .btn{
+		background-color: #008dde;
+}
+.login h4 {
+	color: #888;
+}
+.home-stats .stat {
+	background-color: #EEE;
+	border:1px solid #CCC;
+
+}
+.home-stats .stat span{
+	display:block;
+	font-size: 50px;
+}
