@@ -1,2 +1,9 @@
-# PHP_MYSQL eCommerce Project 
+# PHP eCommerce Project 
+---
 
+## Tachnologies
+- PHP
+- MySQL
+- CSS
+- Bootstrap
+- JS
